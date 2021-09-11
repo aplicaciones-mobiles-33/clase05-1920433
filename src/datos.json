@@ -1,0 +1,18 @@
+{
+    "usuario": "ruffles",
+    "followers": "3000",
+    "following": "200",
+    "avatar": "/images/Ruffles.png",
+    "posts":[
+        {
+            "id":"1",
+            "caption":"",
+            "src": "/images/alvan-nee-T-0EW-SEbsE-unsplash 1.png"
+        },
+        {
+            "id":"2",
+            "caption":"",
+            "src": "/images/bambi-corro-fTPUpUhiBSc-unsplash 2.png"
+        }
+    ]
+}
